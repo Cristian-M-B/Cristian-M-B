@@ -19,8 +19,8 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 ## Puedo ayudarte? Contáctame
 <br/>
-<a href="https://www.linkedin.com/in/cristian-baronetto"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="55" width="55"></a>
-<a href="mailto:crisbaronetto@hotmail.com"><img src="https://image.flaticon.com/icons/png/512/1633/1633686.png"  height="55" width="55"></a>
+<a href="https://www.linkedin.com/in/cristian-baronetto"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45"></a>
+<a href="mailto:crisbaronetto@hotmail.com"><img src="https://image.flaticon.com/icons/png/512/1633/1633686.png"  height="45" width="45"></a>
 
 <!--
 **Cristian-M-B/Cristian-M-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
