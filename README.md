@@ -25,14 +25,14 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   Además del ordenamiento de estas por nombre y por puntuación. También cuenta con un formulario controlado para la validación de los datos de las recetas que se crean. 
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2001.png"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2002.png"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2003.png"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2001.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2002.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2003.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2004.png"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2005.png"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2006.png"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2004.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2005.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2006.png" width="30%"></a>
 </p>
 
 ## Puedo ayudarte? Contáctame
