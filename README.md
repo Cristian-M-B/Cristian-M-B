@@ -1,8 +1,10 @@
 # Hola, soy Cristian 👋
 
-Soy un apasionado por la tecnología y la programación!
+Un apasionado por la tecnología, la innovación y la programación!
+De chico me fascinaban las computadoras y sabía que cuando creciera iba a trabajar de algo relacionado a ellas.
+Hoy soy DEVELOPER!
 
-## Mis Skills:
+## Mis skills:
 HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PostgreSQL
@@ -35,7 +37,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2006.png" width="30%"></a>
 </p>
 
-## Puedo ayudarte? Contáctame
+## Puedo ayudarte? Contáctame!
 <br/>
 <a href="https://www.linkedin.com/in/cristian-baronetto"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45"></a>
 <a href="mailto:crisbaronetto@hotmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45"></a>
