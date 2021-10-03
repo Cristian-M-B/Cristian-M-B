@@ -19,7 +19,26 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <a><img src="https://camo.githubusercontent.com/c7df0ed52a480ff725aac7ac3a11c8aedb6f60ea8ab01929c6adea9903589222/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f73657175656c697a655f69636f6e5f3133303137332e706e67"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"  height="55" width="55"></a>
 
-## Mi último proyecto:
+## Mis últimos proyectos:
+<h3>Amadeus E-commerce</h3>
+<p>
+  Este fue un proyecto colaborativo junto a mis compañeros de grupo del Bootcamp de Henry. Se trata de un E-commerce con temática de instrumentos musicales. 
+  La app consta con tres niveles de ingreso (invitado - usuario - administrador), cada uno con funcionalidades adicionales.
+  Por ejemplo el usuario puede seleccionar productos como favoritos, ver y modificar su perfil y dejar una calificación del instrumento que compro. 
+  Mientras que el administrador además puede gestionar los productos, las ordenes de compras y los usuarios registrados.
+  La app incluye autentificación mediante Auth0 y pasarela de pago mediante Mercado Pago.
+</p>
+<p>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2001.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2002.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2003.png" width="30%"></a>
+</p>
+<p>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2004.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2005.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2006.png" width="30%"></a>
+</p>
+
 <h3>Food App</h3>
 <p>
   Se trata de una SPA sobre recetas de cocina que trae información desde una Api externa y de una base de datos local.
