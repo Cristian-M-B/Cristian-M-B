@@ -29,14 +29,14 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   La app incluye autentificación mediante Auth0 y pasarela de pago mediante Mercado Pago.
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2001.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2002.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2003.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20001.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20002.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20003.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2004.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2005.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%2006.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20004.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20005.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20006.png" width="30%"></a>
 </p>
 
 <h3>Food App</h3>
