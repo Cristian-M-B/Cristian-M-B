@@ -60,8 +60,15 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 ## Puedo ayudarte? Contáctame!
 
-<a href="https://www.linkedin.com/in/cristian-baronetto"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45"></a>
-<a href="mailto:crisbaronetto@hotmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45"></a>
+<a href="https://www.linkedin.com/in/cristian-baronetto">
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45">
+</a>
+<a href="mailto:crisbaronetto@hotmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="45" width="45">
+</a>
+<a href="https://cristianbaronetto.vercel.app/">
+  <img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1642545205~hmac=c1bb483c71bccf3cd4050c6607c632fe" height="45" width="45">
+</a>
 
 <!--
 **Cristian-M-B/Cristian-M-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
