@@ -60,13 +60,15 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 ## Puedo ayudarte? Contáctame!
 
-<a href="https://www.linkedin.com/in/cristian-baronetto">
+<a href="https://www.linkedin.com/in/cristian-baronetto" target="_blank" rel="noreferrer">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:crisbaronetto@hotmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="45" width="45">
 </a>
-<a href="https://cristianbaronetto.vercel.app/">
+&nbsp;&nbsp;&nbsp;
+<a href="https://cristianbaronetto.vercel.app/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1642545205~hmac=c1bb483c71bccf3cd4050c6607c632fe" height="45" width="45">
 </a>
 
