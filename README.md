@@ -48,14 +48,15 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   Además del ordenamiento de estas por nombre y por puntuación. También cuenta con un formulario controlado para la validación de los datos de las recetas que se crean. 
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2001.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2002.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2003.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20001.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20002.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20003.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2004.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2005.png" width="30%"></a>
-  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Food%20App/Food%20App%2006.png" width="30%"></a>
+<p>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20004.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20005.png" width="30%"></a>
+  <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20006.png" width="30%"></a>
 </p>
 
 ## Puedo ayudarte? Contáctame!
@@ -69,7 +70,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://cristianbaronetto.vercel.app/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1642545205~hmac=c1bb483c71bccf3cd4050c6607c632fe" height="45" width="45">
+  <img src="https://cdn-icons-png.flaticon.com/512/1786/1786083.png" height="45" width="45">
 </a>
 
 <!--
