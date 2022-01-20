@@ -5,9 +5,10 @@
 <p>Hoy soy DEVELOPER ❗❗❗ </p>
 
 ## Mis skills:
-HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Material UI&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PostgreSQL
+
+HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;&nbsp;Material UI&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;React
+&nbsp;&nbsp;|&nbsp;&nbsp;Redux&nbsp;&nbsp;|&nbsp;&nbsp;Node Js&nbsp;&nbsp;|&nbsp;&nbsp;Express Js
+&nbsp;&nbsp;|&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL
 
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
@@ -22,6 +23,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"  height="55" width="55"></a>
 
 ## Mis últimos proyectos:
+
 <h3>Amadeus E-commerce</h3>
 <p>
   Este fue un proyecto colaborativo junto a mis compañeros de grupo del Bootcamp de Henry. Se trata de un E-commerce con temática de instrumentos musicales. 
