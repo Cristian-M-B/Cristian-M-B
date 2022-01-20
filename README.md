@@ -43,9 +43,9 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 <h3>Food App</h3>
 <p>
-  Se trata de una SPA sobre recetas de cocina que trae información desde una Api externa y de una base de datos local.
-  En la misma se visualizan las recetas y su respectivo detalle. Permite la busqueda por nombre y filtar por tipo de dieta. 
-  Además del ordenamiento de estas por nombre y por puntuación. También cuenta con un formulario controlado para la validación de los datos de las recetas que se crean. 
+  Se trata de una Single Page Application (SPA) sobre recetas de cocina que trae información desde una Api externa (Spoonacular) y permite la creación de nuevas recetas que se guardan en una base de datos local.
+  En la misma se visualizan las recetas y su respectivo detalle. Permite la busqueda por nombre y cuenta con filtrado por tipo de dieta y ordenamiento por nombre y por puntuación.
+  También incluye paginado y un formulario controlado para la validación de los datos de las recetas que se crean.
 </p>
 <p>
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20001.png" width="30%"></a>
