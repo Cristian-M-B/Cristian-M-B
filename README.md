@@ -7,8 +7,7 @@
 ## Mis skills:
 
 HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;&nbsp;Material UI&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;React
-&nbsp;&nbsp;|&nbsp;&nbsp;Redux&nbsp;&nbsp;|&nbsp;&nbsp;Node Js&nbsp;&nbsp;|&nbsp;&nbsp;Express Js
-&nbsp;&nbsp;|&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL
+&nbsp;&nbsp;|&nbsp;&nbsp;Redux&nbsp;&nbsp;|&nbsp;&nbsp;Node Js&nbsp;&nbsp;|&nbsp;&nbsp;Express Js&nbsp;&nbsp;|&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL
 
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
@@ -24,12 +23,9 @@ HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;
 
 ## Mis últimos proyectos:
 
-<h3>Amadeus E-commerce</h3>
+<h3>AmadeuS</h3>
 <p>
-  Este fue un proyecto colaborativo junto a mis compañeros de grupo del Bootcamp de Henry. Se trata de un E-commerce con temática de instrumentos musicales. 
-  La app consta con tres niveles de ingreso (invitado - usuario - administrador), cada uno con funcionalidades adicionales.
-  Por ejemplo el usuario puede seleccionar productos como favoritos, ver y modificar su perfil y dejar una calificación del instrumento que compro. 
-  Mientras que el administrador además puede gestionar los productos, las ordenes de compras y los usuarios registrados.
+  Se trata de un E-commerce con temática de instrumentos musicales. La app consta con tres niveles de ingreso (invitado, usuario y administrador), cada uno con                 funcionalidades adicionales. Por ejemplo el usuario puede seleccionar productos como favoritos, ver y modificar su perfil y dejar una calificación del instrumento que         compro. Mientras que el administrador además puede gestionar los productos, las ordenes de compras y los usuarios registrados.
   La app incluye autentificación mediante Auth0 y pasarela de pago mediante Mercado Pago.
 </p>
 <p>
@@ -43,10 +39,10 @@ HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/Amadeus%20E-commerce/Amadeus%20E-commerce%20006.png" width="30%"></a>
 </p>
 
-<h3>Food App</h3>
+<h3>The Chef</h3>
 <p>
-  Se trata de una Single Page Application (SPA) sobre recetas de cocina que trae información desde una Api externa (Spoonacular) y permite la creación de nuevas recetas que se guardan en una base de datos local.
-  En la misma se visualizan las recetas y su respectivo detalle. Permite la busqueda por nombre y cuenta con filtrado por tipo de dieta y ordenamiento por nombre y por puntuación.
+  Se trata de una Single Page Application (SPA) sobre recetas de cocina que trae información desde una Api externa (Spoonacular) y permite la creación de nuevas recetas que     se guardan en una base de datos local. En la misma se visualizan las recetas y su respectivo detalle. 
+  Permite la busqueda por nombre y cuenta con filtrado por tipo de dieta y ordenamiento por nombre y por puntuación.
   También incluye paginado y un formulario controlado para la validación de los datos de las recetas que se crean.
 </p>
 <p>
@@ -54,7 +50,6 @@ HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20002.png" width="30%"></a>
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20003.png" width="30%"></a>
 </p>
-<p>
 <p>
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20004.png" width="30%"></a>
   <a><img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/Images/The%20Chef/The%20Chef%20005.png" width="30%"></a>
@@ -66,11 +61,9 @@ HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/cristian-baronetto" target="_blank" rel="noreferrer">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:crisbaronetto@hotmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="45" width="45">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://cristianbaronetto.vercel.app/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/1786/1786083.png" height="45" width="45">
 </a>
