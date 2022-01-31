@@ -1,8 +1,9 @@
 # Hola, soy Cristian 👋
 
-<p>Un apasionado por la tecnología, la innovación y la programación! 💻</p>
-<p>De chico me fascinaban las computadoras y sabía que cuando creciera iba a trabajar de algo relacionado a ellas. 👨‍💻</p>
-<p>Hoy soy DEVELOPER ❗❗❗ </p>
+<p>
+  Un apasionado por la tecnología, la innovación y la programación! Soy un Full Stack Developer con preferencia por el Frontend, graduado del bootcamp de Henry.
+  Actualmente me encuentro ejercitando mis conocimientos y estudiando nuevas tecnologías. En búsqueda de una oportunidad para insertarme laboralmente en un equipo de trabajo   diverso.
+</p>
 
 ## Mis skills:
 
@@ -61,9 +62,11 @@ HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/cristian-baronetto" target="_blank" rel="noreferrer">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45">
 </a>
+&nbsp;&nbsp;
 <a href="mailto:crisbaronetto@hotmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="45" width="45">
 </a>
+&nbsp;&nbsp;
 <a href="https://cristianbaronetto.vercel.app/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/1786/1786083.png" height="45" width="45">
 </a>
