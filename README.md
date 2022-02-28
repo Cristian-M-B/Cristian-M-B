@@ -7,14 +7,16 @@
 
 ## Mis skills:
 
-HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;Sass&nbsp;&nbsp;|&nbsp;&nbsp;Material UI&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;React
-&nbsp;&nbsp;|&nbsp;&nbsp;Redux&nbsp;&nbsp;|&nbsp;&nbsp;Node Js&nbsp;&nbsp;|&nbsp;&nbsp;Express Js&nbsp;&nbsp;|&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL
+HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material UI&nbsp;|&nbsp;JavaScript&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;React
+&nbsp;|&nbsp;Redux&nbsp;|&nbsp;Node Js&nbsp;|&nbsp;Express Js&nbsp;|&nbsp;Sequelize ORM&nbsp;|&nbsp;PostgreSQL
 
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png"  height="40" width="40"></a>
+<a><img src="https://cutewallpaper.org/24/bootstrap-logo-png/download-bootstrap-logo-in-vector-eps-svg-cdr-for-free--brandlogosnet.png"  height="55" width="55"></a>
 <a><img src="https://camo.githubusercontent.com/4915c672a5aa2a0bb15d4ece78217ef9222c2cd99095841d0fd48abb55e1f8af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64632f4c6f676f5f6d6174657269616c5f64657369676e2e7376672f35313270782d4c6f676f5f6d6174657269616c5f64657369676e2e7376672e706e67" height="40" width="40"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55"></a>
