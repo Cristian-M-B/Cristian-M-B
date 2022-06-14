@@ -62,7 +62,7 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 ## Puedo ayudarte? Contáctame!
 
 <a href="https://www.linkedin.com/in/cristian-baronetto" target="_blank" rel="noreferrer">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45" width="45">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:crisbaronetto@hotmail.com">
