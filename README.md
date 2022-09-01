@@ -8,7 +8,7 @@
 ## Mis skills:
 
 HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material UI&nbsp;|&nbsp;JavaScript&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;React
-&nbsp;|&nbsp;Redux&nbsp;|&nbsp;Node Js&nbsp;|&nbsp;Express Js&nbsp;|&nbsp;Sequelize ORM&nbsp;|&nbsp;PostgreSQL
+&nbsp;|&nbsp;Redux&nbsp;|&nbsp;Next
 
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
@@ -19,10 +19,16 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55"></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uYW06dp7DzGKN3FAe0Nvj3M-WttYSCF-SA&usqp=CAU"  height="55" width="90"></a>
+
+&nbsp;Node&nbsp;|&nbsp;Express&nbsp;|&nbsp;Sequelize&nbsp;|&nbsp;PostgreSQL&nbsp;|&nbsp;Mongoose&nbsp;|&nbsp;MongoDB
+
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55"></a>
 <a><img src="https://camo.githubusercontent.com/28e93a1bfe79f991ddcd35f7833e8537f0e7b31aa326dfbe98fe7eb538b40b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f657870726573735f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363532382e706e67"  height="55" width="55"></a>
 <a><img src="https://camo.githubusercontent.com/c7df0ed52a480ff725aac7ac3a11c8aedb6f60ea8ab01929c6adea9903589222/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f73657175656c697a655f69636f6e5f3133303137332e706e67"  height="55" width="55"></a>
 <a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"  height="55" width="55"></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlo1WiHA_kxWS48IuEX39GF24thYMuECukzr3Q39DZQ27hxkH0ffOie1amCuQKfNYocLc&usqp=CAU"  height="70" width="100"></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjvDGqzTInBWJTiQDhAIlKfDnPet_R2tk0A&usqp=CAU"  height="55" width="55"></a>
 
 ## Mis últimos proyectos:
 
