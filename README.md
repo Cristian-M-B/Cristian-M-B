@@ -9,6 +9,7 @@
 
 HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material UI&nbsp;|&nbsp;JavaScript&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;React&nbsp;|&nbsp;Redux&nbsp;|&nbsp;Next
 
+<p>
 <a>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" height="55" width="55">
 </a>
@@ -39,9 +40,11 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 <a>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uYW06dp7DzGKN3FAe0Nvj3M-WttYSCF-SA&usqp=CAU" height="55" width="90">
 </a>
+</p>
 
 &nbsp;Node&nbsp;|&nbsp;Express&nbsp;|&nbsp;Sequelize&nbsp;|&nbsp;PostgreSQL&nbsp;|&nbsp;Mongoose&nbsp;|&nbsp;MongoDB
 
+<p>
 <a>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" height="55" width="55">
 </a>
@@ -60,6 +63,7 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 <a>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjvDGqzTInBWJTiQDhAIlKfDnPet_R2tk0A&usqp=CAU" height="55" width="55">
 </a>
+</p>
 
 ## Mi último proyecto:
 
@@ -70,26 +74,14 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 </p>
 
 <p>
-  <a>
     <img src="https://drive.google.com/file/d/1i2Zx_IV8hEugHq04pw4kMt5cysx-2v_O/view?usp=share_link"  width="30%">
-  </a>
-  <a>
     <img src="https://drive.google.com/file/d/1TVoG9y9p51bij71Vsl9GYgkuczfpuIdu/view?usp=share_link" width="30%">
-  </a>
-  <a>
     <img src="https://drive.google.com/file/d/19dCgk1UxxHL6_74KRu813TEYhCmYpCN2/view?usp=share_link" width="30%">
-  </a>
 </p>
 <p>
-  <a>
     <img src="https://drive.google.com/file/d/1qFFhtq05lruH2zQN59xZr6GXVo2nnbdP/view?usp=share_link" width="30%">
-  </a>
-  <a>
     <img src="https://drive.google.com/file/d/1-c1KGYPiRnRQAnMd0ga_IAkX7CJTLCmt/view?usp=share_link" width="30%">
-  </a>
-  <a>
     <img src="https://drive.google.com/file/d/1pKdfEKwr7_LLFDdmZ4PvO3QXi5hvQLAu/view?usp=share_link" width="30%">
-  </a>
 </p>
 
 ## Puedo ayudarte? Contáctame!
