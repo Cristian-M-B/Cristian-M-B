@@ -74,14 +74,14 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 </p>
 
 <p>
-    <img src="https://drive.google.com/file/d/1i2Zx_IV8hEugHq04pw4kMt5cysx-2v_O/view?usp=share_link"  width="30%">
-    <img src="https://drive.google.com/file/d/1TVoG9y9p51bij71Vsl9GYgkuczfpuIdu/view?usp=share_link" width="30%">
-    <img src="https://drive.google.com/file/d/19dCgk1UxxHL6_74KRu813TEYhCmYpCN2/view?usp=share_link" width="30%">
+    <img src="https://drive.google.com/file/d/1i2Zx_IV8hEugHq04pw4kMt5cysx-2v_O/view?usp=share_link"  width="30%" />
+    <img src="https://drive.google.com/file/d/1TVoG9y9p51bij71Vsl9GYgkuczfpuIdu/view?usp=share_link" width="30%" />
+    <img src="https://drive.google.com/file/d/19dCgk1UxxHL6_74KRu813TEYhCmYpCN2/view?usp=share_link" width="30%" />
 </p>
 <p>
-    <img src="https://drive.google.com/file/d/1qFFhtq05lruH2zQN59xZr6GXVo2nnbdP/view?usp=share_link" width="30%">
-    <img src="https://drive.google.com/file/d/1-c1KGYPiRnRQAnMd0ga_IAkX7CJTLCmt/view?usp=share_link" width="30%">
-    <img src="https://drive.google.com/file/d/1pKdfEKwr7_LLFDdmZ4PvO3QXi5hvQLAu/view?usp=share_link" width="30%">
+    <img src="https://drive.google.com/file/d/1qFFhtq05lruH2zQN59xZr6GXVo2nnbdP/view?usp=share_link" width="30%" />
+    <img src="https://drive.google.com/file/d/1-c1KGYPiRnRQAnMd0ga_IAkX7CJTLCmt/view?usp=share_link" width="30%" />
+    <img src="https://drive.google.com/file/d/1pKdfEKwr7_LLFDdmZ4PvO3QXi5hvQLAu/view?usp=share_link" width="30%" />
 </p>
 
 ## Puedo ayudarte? Contáctame!
