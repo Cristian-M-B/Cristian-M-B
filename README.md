@@ -74,14 +74,14 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 </p>
 
 <p>
-    <img src="https://drive.google.com/file/d/1i2Zx_IV8hEugHq04pw4kMt5cysx-2v_O/view" width="30%" />
-    <img src="https://drive.google.com/file/d/1TVoG9y9p51bij71Vsl9GYgkuczfpuIdu/view" width="30%" />
-    <img src="https://drive.google.com/file/d/19dCgk1UxxHL6_74KRu813TEYhCmYpCN2/view" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/001.png" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/002.png" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/003.png" width="30%" />
 </p>
 <p>
-    <img src="https://drive.google.com/file/d/1qFFhtq05lruH2zQN59xZr6GXVo2nnbdP/view" width="30%" />
-    <img src="https://drive.google.com/file/d/1-c1KGYPiRnRQAnMd0ga_IAkX7CJTLCmt/view" width="30%" />
-    <img src="https://drive.google.com/file/d/1pKdfEKwr7_LLFDdmZ4PvO3QXi5hvQLAu/view" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/004.png" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/005.png" width="30%" />
+    <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/006.png" width="30%" />
 </p>
 
 ## Puedo ayudarte? Contáctame!
