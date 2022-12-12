@@ -74,16 +74,16 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
 </p>
 
 <p>
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/001.png" width="50%" />
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/002.png" width="50%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/001.png" width="49%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/002.png" width="49%" />
 </p>
 <p>
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/003.png" width="50%" />
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/004.png" width="50%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/003.png" width="49%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/004.png" width="49%" />
 </p>
 <p>
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/005.png" width="50%" />
-  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/006.png" width="50%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/005.png" width="49%" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/blob/main/projects/006.png" width="49%" />
 </p>
 
 ## Puedo ayudarte? Contáctame!
