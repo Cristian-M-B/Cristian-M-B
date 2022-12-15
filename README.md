@@ -7,7 +7,9 @@
 
 ## Mis skills:
 
-HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material UI&nbsp;|&nbsp;JavaScript&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;React&nbsp;|&nbsp;Redux&nbsp;|&nbsp;Next
+<p>
+  HTML | CSS | Sass | Bootstrap | Material UI | JavaScript | TypeScript | React | Redux | Next | Node | Express | Sequelize | PostgreSQL | Mongoose | MongoDB
+</p>
 
 <p>
   <a>
@@ -40,12 +42,7 @@ HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;Sass&nbsp;|&nbsp;Bootstrap&nbsp;|&nbsp;Material
   <a>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uYW06dp7DzGKN3FAe0Nvj3M-WttYSCF-SA&usqp=CAU" height="55" width="90" />
   </a>
-</p>
-
-&nbsp;Node&nbsp;|&nbsp;Express&nbsp;|&nbsp;Sequelize&nbsp;|&nbsp;PostgreSQL&nbsp;|&nbsp;Mongoose&nbsp;|&nbsp;MongoDB
-
-<p>
-  <a>
+    <a>
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" height="55" width="55" />
   </a>
   <a>
