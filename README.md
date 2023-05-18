@@ -8,58 +8,27 @@
 ## Mis skills:
 
 <p>
-  HTML | CSS | Sass | Bootstrap | Material UI | JavaScript | TypeScript | React | Redux | Next | Node | Express | Sequelize | PostgreSQL | Mongoose | MongoDB
+  HTML | CSS | Sass | Bootstrap | Material UI | JavaScript | TypeScript | React | Redux | Next | Socket.IO | Node | Express | Sequelize | PostgreSQL | Mongoose | MongoDB
 </p>
 
 <p>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" height="40" width="40" />
-  </a>
-  <a>
-    <img src="https://cutewallpaper.org/24/bootstrap-logo-png/download-bootstrap-logo-in-vector-eps-svg-cdr-for-free--brandlogosnet.png" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/4915c672a5aa2a0bb15d4ece78217ef9222c2cd99095841d0fd48abb55e1f8af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64632f4c6f676f5f6d6174657269616c5f64657369676e2e7376672f35313270782d4c6f676f5f6d6174657269616c5f64657369676e2e7376672e706e67" height="40" width="40" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uYW06dp7DzGKN3FAe0Nvj3M-WttYSCF-SA&usqp=CAU" height="55" width="90" />
-  </a>
-    <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/28e93a1bfe79f991ddcd35f7833e8537f0e7b31aa326dfbe98fe7eb538b40b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f657870726573735f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363532382e706e67" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/c7df0ed52a480ff725aac7ac3a11c8aedb6f60ea8ab01929c6adea9903589222/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f73657175656c697a655f69636f6e5f3133303137332e706e67" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg" height="55" width="55" />
-  </a>
-  <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlo1WiHA_kxWS48IuEX39GF24thYMuECukzr3Q39DZQ27hxkH0ffOie1amCuQKfNYocLc&usqp=CAU" height="70" width="100" />
-  </a>
-  <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjvDGqzTInBWJTiQDhAIlKfDnPet_R2tk0A&usqp=CAU" height="55" width="55" />
-  </a>
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/72538891-60b1-4813-93c0-681796d68951" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/b21e0b5b-d0ac-450c-b315-e8c6e0ed9dfd" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/75efc452-29b3-4693-a8cc-a8f05be219f2" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/b6dc741c-2225-41e1-914e-b68e37197803" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/0c239648-5578-4eec-b12e-cfba0072b58c" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/3273491e-e14d-4a98-beb3-ef2f1feed687" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/0880db66-55b8-4811-b09e-60b5882db689" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/ca23a627-0464-486a-a2d8-9b70979561ce" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/b4673ea1-9835-43db-a3e2-5977ed4066fa" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/4eefba36-4de3-43f6-a4da-122866f5e7af" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/14096cd8-d38f-4e8a-bc5a-d8158403b131" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/e55c222f-0619-41c9-a781-e899a974684c" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/2b012137-96b0-40b7-ace8-455fc5c7e0f6" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/08b27101-c19c-453b-a62e-f081c14cc005" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/87ddbdde-2603-439f-a562-0db4bdaf1231" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/9cdd90dc-b412-438c-84b0-192a311246e4" height="55" width="55" />
+  <img src="https://github.com/Cristian-M-B/Cristian-M-B/assets/82118346/c1312535-f46b-4f98-acff-b612c7c618eb" height="55" width="55" />
 </p>
 
 ## Mi último proyecto:
